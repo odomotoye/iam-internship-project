@@ -1,0 +1,12 @@
+,name,keywords,form_link
+0,eServices Access,"['supervisor', 'npi', 'ecx_improvev2', 'portal', 'npi list', 'e-Services', 'eservices']",https://novant.service-now.com/sp?id=sc_cat_item&sys_id=5d606ff213a8f74036607e776144b09a&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+1,"Email: Identity, Access & Security","['email', 'email address', 'change', 'name', 'name change', 'new name', 'distribution lists', 'distribution', 'senders', 'bad actors', 'incidents', 'external', 'users', 'review', 'organization']",https://novant.service-now.com/sp?id=sc_cat_item&sys_id=868425ea13e423407fcbb7a66144b0b0&sysparm_category=f85ee81a13c59f00bbe859812244b0a4&catalog_id=-1
+2,"Account Help Request (i.e. Password Reset, Account Combines)","['reset password account', 'inactive', 'forgot', 'password', 'registration', 'authenticate', 'combine', 'account combine', 'linked', 'corpid', 'corpidsmultiple']",https://novant.service-now.com/sp?id=sc_cat_item&sys_id=868425ea13e423407fcbb7a66144b0b0&sysparm_category=f85ee81a13c59f00bbe859812244b0a4&catalog_id=-1
+3,AD Groups,"['add', 'group', 'adm_vmileapp', 'servers']",https://novant.service-now.com/sp?id=sc_cat_item&sys_id=b96706011b8330901de6fe261a4bcb6f&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+4,Strata Access,"['strata', 'managerial', 'manager', 'ERL', 'access']",https://novant.service-now.com/sp?id=sc_cat_item_guide&sys_id=2cf0cf4cdb21655051fbefe813961976&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+5,Palmetto Medicare Portal,"['Palmetto ', 'medicare ', 'medicaid', 'portal access', 'portal', 'eligibility']",https://novant.service-now.com/sp?id=sc_cat_item_guide&sys_id=2cf0cf4cdb21655051fbefe813961976&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+6,Department: Schedule Updates,"['dept ', 'schedule', 'department', 'multiple departments']",https://novant.service-now.com/sp?id=sc_cat_item_guide&sys_id=2cf0cf4cdb21655051fbefe813961976&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+7,Pyxis Access,"['pyxis', 'access', 'needs']",https://novant.service-now.com/sp?id=sc_cat_item_guide&sys_id=2cf0cf4cdb21655051fbefe813961976&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+8,Voalte,"['lost', 'grant', 'voalte access', 'voalte']",https://novant.service-now.com/sp?id=sc_cat_item_guide&sys_id=2cf0cf4cdb21655051fbefe813961976&sysparm_category=f85ee81a13c59f00bbe859812244b0a4
+9,Imprivata Access,"['imprivata', 'access ', 'group', 'activate', 'badge']",https://company/forms/app-access
+-1,Uncategorized IAM Request,[],https://company/forms/iam-general

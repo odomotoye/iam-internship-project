@@ -1,0 +1,485 @@
+
+=== Cluster -1 (465 tickets) ===
+
+Ticket 1:
+The CIRC has opened 2 security incidents recently for bad actors abusing Novant health distribution lists that allow external users to email into the organization. 
+
+We would like for IAM to review existing distribution lists for these settings and determine the business need and disable these settings as able to across the organization to prevent bad actors from using these distribution lists as way into the environment. 
+
+Distribution lists should default to "only senders inside my organization"
+
+Ticket 2:
+User Katie Edwards has multiple corpids and needs a combine. CCE011 is the account linked to Infor. Her other account is KE0110. 
+
+Issue arose during attestations when her high risk entitlement was sent to her previous manager.
+
+Ticket 3:
+User Darrell Steven Caulder needs an account combine. DC0547 is the account linked to Infor. His other account is DC0470. He also has an Alt700 account under CorpID DC0701 that may need to be relinked.
+
+Issue arose during attestations when her high-risk entitlement was sent to her previous manager.
+
+Ticket 4:
+The CIRC has determined user account listed below needs to be audited for admin level access. Any admin level access should be on this users alternate account. During review of SIR0025732 we saw several other AD groups on this standard account that were of concern. Please review and adjust as needed ensuring user retiains access on alternat account.
+
+AD Account: TL0240
+
+Ticket 5:
+2 corp IDs are assigned to me.
+JM1044 and MJM124
+MJM124 is not correct!!
+I only use JM1044.  due to the multiple corp IDs, this is causing me to appear as I have not completed ilearn modules.  Please merge the profiles or remove MJM124 and ensure that my completed ilearn modules stay with JM1044.
+TY
+
+Ticket 6:
+Shared Drive: \\epic-nas.et0798.epichosted.com\external\Dynamic\ClaimsAttachments\SSI
+Users: RB0790, RB0798, VD0038, TMZ002, SRM040, CF0007, TLJ017. Please grant access to the above shared drive for the following users so they can upload/access claim attachments
+
+Ticket 7:
+GoHealth has asked for a breakdown of each of their templates to see what each template grants in the way of access, security points, etc.  Audit asked for a list of active users so they can see what templates everyone was on.   Will need to run an export from Epic on this list of corpids on the User Audit tab.  The User Audit tab is sorted by active users.
+
+Ticket 8:
+please add MUR/CNAI
+
+Ticket 9:
+please add MUR/CNAI
+
+Ticket 10:
+Ticket submitted regarding Akeysha Rutledge's ability to save in department shared drive.  In regards to ticket INC6999977, the issue is not about access for Akeysha. It is that she cannot save to the shared drive.  This is essential as she is responsible for tracking patient information, which needs to remain up to date.  Can you please advise?
+
+=== Cluster 7 (63 tickets) ===
+
+Ticket 1:
+Has KMC pyxis access but not to Women's unit
+
+Ticket 2:
+employee needs Pyxis Access
+
+Ticket 3:
+She is unable to login to Pyxis after migration at New Hanover on L&D
+This is an URGENT request as she's working right now.
+
+Ticket 4:
+Pyxis access in Scotts Hill Cancer infusion center.
+
+Ticket 5:
+Lindsey needs NHRMC Pyxis Access
+
+Ticket 6:
+Needs P.02 access to pyxis as she is leader in charge until Admin/ANM get in.
+
+Ticket 7:
+team member has access to KMC pyxis but not to the above units. Please update access to include all pyxis devices.
+
+Ticket 8:
+needs access to Pyxis_MPH P6 Access to pharmacy ES System for Medical Park Hospital
+
+Ticket 9:
+Team member was somehow terminated in system - during this update- now has access to other things but not showing in pyxis to add her
+
+Ticket 10:
+Would like to assign Jamie Overton - JD0025 Pyxis access under P - 35 Nurse Off Site Clinic for New Hanover facility only.
+
+=== Cluster 1 (23 tickets) ===
+
+Ticket 1:
+name is changed, was not sure if i can get a new email address or would it remain the same?
+
+Ticket 2:
+I would like my email address to be changed to reflect my new name. Amy Hatch.
+
+Ticket 3:
+Hello,
+
+I've recently had my last name updated from Griffin>Rabey following marriage. I am requesting an email address change to reflect this, please. 
+
+Thank you,
+
+Jade
+
+Ticket 4:
+My last name is Owens. Owens-Troutman is no longer my legal last name, I am requesting change of my email address. Drivers license and RN license reflect Owens. Can my corporate email address be changed to remove troutman?
+
+Ticket 5:
+Married last name change
+
+Ticket 6:
+please remove troutman from my email address and notify me of my new email address. I assume it will be miranda.owens@novanthealth.org since there is already a mowens@novanthealth.org for Melvin Owens. Thank you!
+
+Ticket 7:
+I do not go by my legal first name and everyone knows me as my nickname - so i was requesting that the cameron be axed and brandee brandt as the name to show up in teams please.
+
+Ticket 8:
+User goes by Kitty, not Karen.  Is there a way to change or add an alias to her email so it goes to kitty.howell@novanthealth.org or khowell@novanthealth.org?  Can she also have her display named changed to Kitty Howell?
+
+Ticket 9:
+My preferred name is on my badge and in servicenow but Microsoft is not showing the name.  My name is Sarah Martin with the preferred name of Beth Martin.  I have attached a picture of where I tried to change the name.  Can you change my preferred name to match the name on my badge?
+
+Ticket 10:
+Hi, i am not sure if this request went through yesterday but I'm trying again.  I do not go by my first name and it causes a lot of confusion when people are trying to find me by the nickname i do go by and can't find me in teams.  Also, i just hate being called by that name. Lol.  Is there any way to show my identity as brandee brandt instead of cameron brandt when i am messaging with others?  Thanks.
+
+=== Cluster 0 (19 tickets) ===
+
+Ticket 1:
+Supervisor needs E-Services access set up. Attached is NPI list 2 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 2:
+Supervisor needs e-services access set up. Attached is NPI list 1 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 3:
+Supervisor needs e-services access set up. Attached is NPI list 2 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 4:
+Supervisor needs e-services access set up. Attached is NPI list 1 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 5:
+Supervisor needs e-services access set up. Attached is NPI list 2 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 6:
+Supervisor needs e-services access set up. Attached is NPI list 1 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 7:
+Supervisor needs e-services access set up. Attached is NPI list 2 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 8:
+Supervisor needs e-services access set up. Attached is NPI list 1 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 9:
+Supervisor needs e-services access set up. Attached is NPI list 2 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 10:
+Supervisor needs e-services access set up. Attached is NPI list 1 of 2. Portal is https://www.onlineproviderservices.com/ecx_improvev2/
+
+=== Cluster 9 (17 tickets) ===
+
+Ticket 1:
+Team member needs to be added to Impravata group so she can badge into the computer. When calling for support for help desk, team members get told to let their manager give them access. We do not have the ability to do this.
+
+Ticket 2:
+Team member needs to be added to Impravata group so she can badge into the computer. When calling for support for help desk, team members get told to let their manager give them access. We do not have the ability to do this.
+
+Ticket 3:
+Team member needs to be added to Impravata group so she can badge into the computer. When calling for support for help desk, team members get told to let their manager give them access. We do not have the ability to do this.
+
+Ticket 4:
+Needs Imprivata Admin Console access.
+
+Ticket 5:
+I need to give team members the ability to use Imprivata
+
+Ticket 6:
+imprivata fingerprint access is needed
+
+Ticket 7:
+Employee requires imprivata access
+
+Ticket 8:
+Team member needs access to enroll her badge in Imprivata
+
+Ticket 9:
+Requires Imprivata access
+
+Ticket 10:
+Emma is a new RCA employee in the resp dept and needs access to imprivata. Her corp ID is EK0173.
+
+=== Cluster 8 (17 tickets) ===
+
+Ticket 1:
+team member was former employee and has returned to organization. Her Voalte access is erroneously associated with her old user ID (KA453926) and should be associated with her new user ID (KAQ007). Please remedy ASAP.  Thanks!
+
+Ticket 2:
+Please help team member get impravada access, which is the access needed to use to Voalte staffing phones
+
+Ticket 3:
+This team member has lost access to the INFOR and Concur
+
+Ticket 4:
+Hey, this team member needs ERL access, Nowah had it previously and needs the access back.
+
+Ticket 5:
+Team member needs IAM access
+
+Ticket 6:
+Please grant Voalte access for all the Team Members for Hospital at Home.  Some of the team has it and some do not.  Until we get Voalte added to our shared unit phone, our team will be using the desktop version of Voalte.  We do have some team members that came with their Voalte phones and will be using their 1:1 phones.
+
+Ticket 7:
+Team member has lost Voalte app on phone
+
+Ticket 8:
+Same as the above I am unable to access my team in infor
+
+Ticket 9:
+Employee needs access to voalte
+
+Ticket 10:
+Employee now works for guest services and requires voalte access.
+
+=== Cluster 3 (14 tickets) ===
+
+Ticket 1:
+Please add access to the following servers (groups)
+ADM_VMILEAPP1004
+ADM_VMILEAPP1005
+ADM_VMILEAPP1006
+ADM_VMILEAPP1007
+ADM_VMILEAPP1008
+ADM_VMILEAPP1009
+ADM_VMILEAPP1010
+ADM_VMILEAPP1011
+ADM_VMILEAPP1012
+ADM_VMILEAPP1013
+
+Ticket 2:
+Please add Donald to the groups for the following servers
+ADM_VMILEAPP1004
+ADM_VMILEAPP1005
+ADM_VMILEAPP1006
+ADM_VMILEAPP1007
+ADM_VMILEAPP1008
+ADM_VMILEAPP1009
+ADM_VMILEAPP1010
+ADM_VMILEAPP1011
+ADM_VMILEAPP1012
+ADM_VMILEAPP1013
+
+Ticket 3:
+Please add my team to adm_IPLANAP so we can manage that server as part of IT team responsibilities
+Can add the group Oncology_Support (which has all of our 700 accounts) or can manually add Morgan, Dustin and myself (MK0701, DMV700 and JN0700)
+
+Ticket 4:
+Need workstation DKTMZ027VVN added Tele-Health_Admin AD group
+
+Ticket 5:
+Need group SCH_TeamMembers added in AD for my standard acct and JH0701.  I work in the South Carolina market and may need
+
+Ticket 6:
+Need Morgan added to BI_SupplyChainOperations_Dep_RW but when I try to use the Active Directory request, that AD group is not available in the drop down when selecting BI AD groups. Only the none RW AD Group is available. Morgan needs read and write access to perform her role. You will see the AD Group is populated with her manager and two other co-workers.
+
+Ticket 7:
+Please add the following AD groups to CLD087 and ZMK004
+ISO_ASE_Admin
+ISO_ASE_Primary
+ISO_O
+
+Ticket 8:
+please add SLL080 to Visage_Admin AD group
+
+Ticket 9:
+please add HAK011 to Visage_Admin AD group
+
+Ticket 10:
+please add BI_SupplyChainOperations_Dep_RW  to Morgan Hester, this AD group is not list under the AD group membership request.
+
+=== Cluster 5 (13 tickets) ===
+
+Ticket 1:
+Description:
+Indya Rucker ,ir0042, needs access to Palmetto Medicare portal to obtain authorizations. See attachment for ptan and npi for locations needed.
+
+Ticket 2:
+Team member needs access to Palmetto GBA for Medicare in order to view eligibility for patients. 
+
+NPI/TIN Needed: 1447200233 / 560928089
+
+Palmetto GBA URL: https://www.onlineproviderservices.com/ecx_improvev2/
+
+Ticket 3:
+Team member needs access to all NPIs and TINs for the Blue E provider portal so that they may review patient eligibility and claim status. 
+
+Blue E URL: https://bluee.bcbsnc.com/providers/web/login
+
+Ticket 4:
+I need access to FIS for working outpatient Medicare claims.  I need access for the following NPIs: 1447200233, 1881647204, 1346291309, 1508843566, 1972001469 & 1740998020.
+
+Ticket 5:
+Jessica needs access to FIS for working outpatient Medicare claims. She needs access for the following NPIs: 1447200233, 1881647204, 1346291309, 1508843566, 1972001469 & 1740998020.
+
+Ticket 6:
+Need access to NPI# 1821816026 Novant Health Rehabilitation Waxhaw, NC   Tax ID # 561373175
+User name:  TM0395
+
+Ticket 7:
+Please see attached request for VA Medicaid portal access
+
+Ticket 8:
+Please see attached for VA Medicaid Access
+
+Ticket 9:
+I am requesting access to BCBS of NC’s provider portal via : https://bluee.bcbsnc.com/providers/web/login
+Automated response when attempting to log in shows too many failed attempts made, therefore, I was locked out of my account.
+NPI 1750978839
+Tax ID 853777599
+Unsure of my username. May be email mercy.morales@novanthealth.org
+
+Ticket 10:
+User needs access to Blue E to upload post-claim medical necessity appeals. User will need access to all Novant hospitals.
+
+=== Cluster 4 (12 tickets) ===
+
+Ticket 1:
+I am the Nurse Manager for the CVSU and I can no longer access Strata.
+
+Ticket 2:
+I need access to Strata to manage my departments finances
+
+Ticket 3:
+Michael will need ERL access as he will be transitioning into the manager role for Cath lab and EP lab and would need this access to fulfill his managerial duties.
+
+Ticket 4:
+New nurse manager to BHH inpatient - need manager access
+
+Ticket 5:
+new bhh inpatient nurse manager - need access to press ganey portal
+
+Ticket 6:
+New nurse manager to BHH inpatient - need access to laudio
+
+Ticket 7:
+New nurse manager to Behavioral health hospital - need access to strata
+
+Ticket 8:
+New Nurse Manager to BHH Inpatient - need manager access
+
+Ticket 9:
+New nurse manager to BHH inpatient - need manager access in eRL software
+
+Ticket 10:
+Chrystal is the nurse manager and needs access
+
+=== Cluster 6 (11 tickets) ===
+
+Ticket 1:
+Please add the cost center 111-6109-12301 to the employee listed. She works in multiple departments and needs her schedule to be updated to show this cost center.
+
+Ticket 2:
+UREGENT SCHEDULE NEEDED!!!! need to add a schedule for this employee, I need her to be added to the department 111-6109-12301
+
+Ticket 3:
+I need the providers in my department added to my access in Infor as I am the clinical supervisor of Pilot Mountain Medical Care. The dept number I need added is 102-8072-21030.
+
+Ticket 4:
+Requesting access for service cost centers in Triad Region and GCM. I have attached the department numbers. This is her 3rd week with our department and is still unable to book due to access.
+
+Ticket 5:
+Placed ticked for this a couple days ago with no response as of yet. I am liasion and need to get access for our new provider Dr. Almquist to CPN before her call shift this weekend.
+
+Ticket 6:
+Request HRC1370679 was completed with instructions to submit a IAM request to be given schedule editor access. Schedule editor access should be given for cost centers: 501-300-30092, 111-1000-10204, 111-1000-10206
+
+Ticket 7:
+Physician needs CPN access ASAP for KMC
+Casey Cooker (1143848)
+
+Ticket 8:
+Kayla is not reporting to me in Infor. I should be listed as her supervisor. Her cost center is 310.8349.22090
+
+Ticket 9:
+Janet Stafford is on my team. I need access to her cost center to build her schedule. The cost center number is  310.8275.22080
+
+Ticket 10:
+Amanda Covington is on my team. I need access to her cost center in Infor to create her scheduled. The cost center is 310.8445.22080
+
+=== Cluster 2 (10 tickets) ===
+
+Ticket 1:
+Attempted to access concur multiple times using novant email: skaur@novanthealth.org. When clicking on forgot password - the email I am receiving is telling that I cannot reset my password because the account is inactive but the account is linked to someone else named "Simranpal Kaur" - please see attachment
+
+Ticket 2:
+Per guidance in RITM2376575, please add Send As Rights for the following users of the shared mailbox (AIforPatients@novanthealth.org):
+
+DS0591 = David Sharp
+JM0950 = Joshua Mathew
+MH1138 = Matthew Heindl
+
+Ticket 3:
+Jakway, Megan, your account is ready to be registered in MyPassword. 
+
+ 
+
+Please follow these steps to complete verification and registration in Password Manager:
+
+ 
+
+Click this URL link:                                         https://secure.novanthealth.org
+Enter your Username (Corp. ID):                    MJ0291
+Follow the steps to complete registration and set up your password which will be valid for the next 365 days and used to authenticate to the Novant Health network
+ 
+
+NH Link users only follow these steps:
+
+Disregard the instructions above.
+Make note of your Corp ID (User ID) in this email.
+- Hold on to this email for future use.
+
+Wait for your Welcome Letter from the NH Link team.
+- This will contain all instructions you need to set up your account and log in.
+
+- You will not be able to log into NH Link until you have received your NH Link Welcome Letter.
+
+ 
+
+Should you encounter any issues contact the Novant Health service desk at 1-866-966-8268.
+
+ 
+
+Novant Health Identity and Access Management (IAM)
+
+Ticket 4:
+James Mckeever received the following email:  
+
+"Mckeever, James
+ 
+Your NHNHRMC account JM1292 will be disabled due to inactivity on 9/11/2025. 
+ 
+If you intend on continuing to use this account, please register activity on it by logging in with it, or changing its password using password manager utilizing your Novant CorpID. 
+ 
+This is an automated message please do not reply to this message. If you have any issues or require assistance, please contact the Service Desk at 910-667-7855."
+
+He works weekly.  How can we make sure his account is not disabled.
+
+Ticket 5:
+Team member has access and permission showing as owner in and additional mailbox CBO mailbox billingcbo@novanthealth.org.  Needs to have access writes to send on behalf of the mailbox. 
+
+Stephanie Rothrock
+
+Ticket 6:
+Thank you for your email. Please note I am no longer with Novant Health. For further assistance, please contact Lindsey Fronk / lmfronk@novanthealth.org or Lena Gunn / LGunn@novanthealth.org
+
+Ticket 7:
+Thank you for your email. Please note I am no longer with Novant Health. For further assistance, please contact Michelle Brinson / mpbrinson@novanthealth.org or Kristen Howard / KMHoward@novanthealth.org
+
+Ticket 8:
+Kristie is unable to log into any NH applications due to an inactive email address. Kristie's email address is KIrving@novanthealth.org. Can someone please reactivate the email address? Thanks.
+
+Ticket 9:
+Please stop sending these account set up emails to me. Her account is activated but I get these multiple times a day:
+
+
+
+Albright, Anna, your account is ready to be registered in MyPassword. 
+
+Please follow these steps to complete verification and registration in Password Manager:
+
+Click this URL link:                                         https://secure.novanthealth.org
+Enter your Username (Corp. ID):                    AA1027
+Follow the steps to complete registration and set up your password which will be valid for the next 365 days and used to authenticate to the Novant Health network
+ 
+NH Link users only follow these steps:
+
+Disregard the instructions above.
+Make note of your Corp ID (User ID) in this email.
+- Hold on to this email for future use.
+
+Wait for your Welcome Letter from the NH Link team.
+- This will contain all instructions you need to set up your account and log in.
+
+- You will not be able to log into NH Link until you have received your NH Link Welcome Letter.
+
+ Should you encounter any issues contact the Novant Health service desk at 1-866-966-8268.
+
+
+Novant Health Identity and Access Management (IAM)
+
+Ticket 10:
+Email address on file is not correct! Please update email to my Novant email: jndavis@novanthealth.org . 
+Please forward my Novant emails to jdavis@ashevilleopenmri.com -my MedQuest email address.
+In addition, my direct manager is Tom Gunning, not Diane Miller. Diane Miller retired and is no longer with the organization.
