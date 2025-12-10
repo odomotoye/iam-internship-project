@@ -7,11 +7,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 import groq
 from groq import Groq
 
-current_directory = os.getcwd()
-
-# Display the current working directory in the Streamlit UI
-st.write(f"The current working directory is: {current_directory}")
-
 # os.environ['GROQ_API_KEY'] = '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'
 
 # ============================================
@@ -31,7 +26,7 @@ st.write(
 # ============================================
 @st.cache_resource
 def load_resources():
-    base_path = "/workspaces/iam-internship-project"
+    base_path = "/mount/src/iam-internship-project"
     df_forms = pd.read_csv(f"{base_path}/cluster_forms_to_links.csv")
     
     try:
