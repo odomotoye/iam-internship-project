@@ -7,6 +7,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import groq
 from groq import Groq
 
+os.environ['GROQ_API_KEY'] = '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'
+
 # ============================================
 # PAGE CONFIG
 # ============================================
@@ -24,7 +26,7 @@ st.write(
 # ============================================
 @st.cache_resource
 def load_resources():
-    base_path = "/workspaces/internship_project_/IAM PROJECT 2"
+    base_path = "/workspaces/iam-internship-project"
     df_forms = pd.read_csv(f"{base_path}/cluster_forms_to_links.csv")
     
     try:
