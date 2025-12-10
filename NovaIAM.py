@@ -7,7 +7,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 import groq
 from groq import Groq
 
-os.environ['GROQ_API_KEY'] = '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'
+current_directory = os.getcwd()
+
+# Display the current working directory in the Streamlit UI
+st.write(f"The current working directory is: {current_directory}")
+
+# os.environ['GROQ_API_KEY'] = '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'
 
 # ============================================
 # PAGE CONFIG
